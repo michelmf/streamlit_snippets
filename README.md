@@ -1,2 +1,3 @@
-# streamlit_challenge
-30 days challenge using streamlit
+# Streamlit Snippets
+
+Repo to save some little projects and codes for further reference.
